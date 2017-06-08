@@ -4460,7 +4460,11 @@ var domains = {
   "ddns.net": 1, 
   "f3322.net": 1, 
   "google.com.hk": 1, 
-  "inoreader.com": 1 
+  "inoreader.com": 1,
+  "m-team.cc": 1, 
+  "github.com": 1, 
+  "wsgzao.github.io": 1, 
+  "cthlo.github.io": 1
 };
 
 //"inoreader.com": 1, 
