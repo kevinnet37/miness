@@ -4464,7 +4464,9 @@ var domains = {
   "m-team.cc": 1, 
   "github.com": 1, 
   "wsgzao.github.io": 1, 
-  "cthlo.github.io": 1
+  "cthlo.github.io": 1, 
+  "mega.nz": 1, 
+  "mega.co.nz": 1
 };
 
 //"inoreader.com": 1, 
