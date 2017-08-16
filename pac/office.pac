@@ -4700,7 +4700,7 @@ var domains = {
   "wtfpeople.com": 1, 
   "hacg.in": 1, 
   "bmfinn.com": 1, 
-  "1-apple.com.tw": 1
+  "1-apple.com.tw": 1, 
    "192.168.1.38": 1, 
   "192.168.1.39": 1, 
   "ddns.net": 1, 
