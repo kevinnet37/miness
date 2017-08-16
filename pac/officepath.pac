@@ -4713,7 +4713,8 @@ var domains = {
   "cthlo.github.io": 1, 
   "mega.nz": 1, 
   "mega.co.nz": 1, 
-  "shadowsu.pw": 1
+  "shadowsu.pw": 1, 
+  "epam.com": 1
 };
 
 var direct = 'DIRECT;';
