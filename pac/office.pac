@@ -1437,7 +1437,6 @@ var domains = {
   "hackthatphone.net": 1, 
   "radiohilight.net": 1, 
   "wozy.in": 1, 
-  "inoreader.com": 1, 
   "khabdha.org": 1, 
   "googledrive.com": 1, 
   "neverforget8964.org": 1, 
