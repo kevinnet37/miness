@@ -1670,7 +1670,6 @@ var domains = {
   "premeforwindows7.com": 1, 
   "ezpeer.com": 1, 
   "2000fun.com": 1, 
-  "m-team.cc": 1, 
   "gettyimages.com": 1, 
   "new-akiba.com": 1, 
   "2waky.com": 1, 
