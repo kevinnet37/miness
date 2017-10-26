@@ -4689,8 +4689,9 @@ var domains = {
   "192.168.1.39": 1, 
   "ddns.net": 1, 
   "f3322.net": 1, 
-  "google.com.hk": 1,
-  "shadowsu.pw": 1
+  "google.com.hk": 1, 
+  "shadowsu.pw": 1, 
+  "90oo.com": 1 
 };
 
 var direct = 'DIRECT;';
