@@ -4691,7 +4691,8 @@ var domains = {
   "f3322.net": 1, 
   "google.com.hk": 1, 
   "shadowsu.pw": 1, 
-  "90oo.com": 1 
+  "90oo.com": 1, 
+  "devexpress.com": 1 
 };
 
 var direct = 'DIRECT;';
